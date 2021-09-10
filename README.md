@@ -28,10 +28,8 @@ My name's Igor Téuri. I'm a Psychologist from Brazil. I love technology, music,
   
   <!-- <img align="right" alt="Rafa-gif" src="htttps://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
-___
 
 [![igorteuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorteuri)](https://github.com/anuraghazra/github-readme-stats)
-___
 ![Snake animation](https://github.com/igorteuri/igorteuri/blob/output/github-contribution-grid-snake.svg)
 
 
