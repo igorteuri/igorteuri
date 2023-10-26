@@ -4,10 +4,10 @@ My name's Igor Téuri. I'm a Psychologist from Brazil. I love technology, music,
 
 ### **BIO**
 
-- I'm currently a self-employed worker with online Clinical Psychological attendances.
+- I'm Psychologist working in Educational and Clinical areas.
 - I love opensource and use Linux daily.
 - I'm learning to code by myself.
-- I have a Youtube Channel about Role Playing Games: [Dados Críticos](https://www.youtube.com/dadoscriticos).
+- I have a Youtube Channel about Tabletop Role Playing Games: [Dados Críticos](https://www.youtube.com/dadoscriticos).
 - I'm very interested in art and design. I use daily ``GIMP``, ``Inkscape``, ``Reaper``, ``OBS Studio``, ``Audacity``, ``DaVinci Resolve``, ``Photoshop``, ``Premiere Pro``.
 
 
